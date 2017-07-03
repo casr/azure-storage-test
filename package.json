@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "scripts": {
+    "upload": "node index.js",
+    "test": "standard"
+  },
+  "dependencies": {
+    "azure-storage": "2.2.0",
+    "dotenv": "4.0.0"
+  },
+  "devDependencies": {
+    "standard": "10.0.2"
+  }
+}
