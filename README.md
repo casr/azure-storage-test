@@ -15,6 +15,7 @@ a file called `.env` where you can apply these variables like so:
     AZURE_CONTAINER_NAME=my-container
     AZURE_STORAGE_HOST=https://account-name.blob.core.windows.net/
     AZURE_STORAGE_SHARED_ACCESS_SIGNATURE='sv=...'
+    UPLOAD_BASE='directory/to/upload/to/'
 
 Then you can install and run the test script:
 
